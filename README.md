@@ -1,0 +1,1 @@
+# samp-discord-whitelist
